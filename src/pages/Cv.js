@@ -11,7 +11,7 @@ function Cv() { //after click on 'Home' in the menu this page will show
           </a>
       </div>
       <div className='imgCv'>
-        <img src="/pap.PNG" width="300px"/>
+        <img src="./pap.PNG" width="300px"/>
       </div>
     </div>
   )
