@@ -1,0 +1,76 @@
+.navbar { /*style of the line of the open and close of the sidebar*/
+    /*background-color: #131313;*/
+    background-image: linear-gradient(rgb(70, 70, 70), #000d1b);
+    height: 80px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+  }
+  
+  .menu-bars { /*style of the icons that open and close the sidebar*/
+    margin-left: 2rem;
+    font-size: 2rem;
+    background: none;
+  }
+  
+  .nav-menu { /*style of the sidebar when open*/
+    background-color: #494949;
+    width: 250px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    left: -100%;
+    z-index: 1;
+    transition: 850ms; /*the delay that after the time the sidebar close*/
+  }
+  
+  .nav-menu.active { 
+    left: 0;
+    transition: 350ms; /*the delay that after the time of the sidebar open*/
+  }
+  
+  .nav-text { /*the box of the elements in the sidebar*/
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding: 8px 0px 8px 16px;
+    list-style: none;
+    height: 60px;
+  }
+  
+  .nav-text a { /*style of the text of elements in the sidebar*/
+    text-decoration: none;
+    color: #FFE700;
+    font-size: 18px;
+    width: 95%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0 16px;
+    border-radius: 4px;
+    transition: 300ms;
+  }
+  
+  .nav-text a:hover { /*hover in the sidebar elements*/
+    background-color: #6b6b6b;
+    transition: 300ms;
+  }
+  
+  .nav-menu-items {
+    width: 100%;
+  }
+  
+  .navbar-toggle { /*top title in the sidebar*/
+    background-color: #494949;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+  }
+  
+  span { /*margin of the text of element*/
+    margin-left: 16px;
+  }
