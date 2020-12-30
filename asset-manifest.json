@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dor-cohen-website/static/css/main.67e21128.chunk.css",
+    "main.js": "/dor-cohen-website/static/js/main.a4c5e83b.chunk.js",
+    "main.js.map": "/dor-cohen-website/static/js/main.a4c5e83b.chunk.js.map",
+    "runtime-main.js": "/dor-cohen-website/static/js/runtime-main.bd7aa055.js",
+    "runtime-main.js.map": "/dor-cohen-website/static/js/runtime-main.bd7aa055.js.map",
+    "static/js/2.c4499229.chunk.js": "/dor-cohen-website/static/js/2.c4499229.chunk.js",
+    "static/js/2.c4499229.chunk.js.map": "/dor-cohen-website/static/js/2.c4499229.chunk.js.map",
+    "index.html": "/dor-cohen-website/index.html",
+    "static/css/main.67e21128.chunk.css.map": "/dor-cohen-website/static/css/main.67e21128.chunk.css.map",
+    "static/js/2.c4499229.chunk.js.LICENSE.txt": "/dor-cohen-website/static/js/2.c4499229.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd7aa055.js",
+    "static/js/2.c4499229.chunk.js",
+    "static/css/main.67e21128.chunk.css",
+    "static/js/main.a4c5e83b.chunk.js"
+  ]
+}
