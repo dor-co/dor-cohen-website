@@ -6,7 +6,7 @@ import * as IoIcons from 'react-icons/io';
 export const SidebarData = [ //array of all the elements of the sidebar
   {
     title: 'About', //name in the sidebar
-    path: '/', //path after click on the sidebar
+    path: '/dor-cohen-website/', //path after click on the sidebar
     icon: <AiIcons.AiFillHome />, //icon in the sidebar
     cName: 'nav-text' //name for style in the sidebar
   },
