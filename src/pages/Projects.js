@@ -8,7 +8,7 @@ function Projects() { //after click on 'Products' in the menu this page will sho
       
       <div class="container2">
         <a href="https://github.com/dor-co/Software-Engineering-Project">       
-          <img src="./Nn.png" alt="sw img" class="image"/>
+          <img src="./Sw.png" alt="sw img" class="image"/>
           <div class="overlay">
             <h3 class="text">Money Saver</h3>
           </div>
