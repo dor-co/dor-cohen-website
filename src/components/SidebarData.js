@@ -12,19 +12,19 @@ export const SidebarData = [ //array of all the elements of the sidebar
   },
   {
     title: 'Projects',
-    path: '/projects',
+    path: '/dor-cohen-website/projects',
     icon: <IoIcons.IoIosPaper />,
     cName: 'nav-text'
   },
   {
     title: 'Skills',
-    path: '/skills',
+    path: '/dor-cohen-website/skills',
     icon: <IoIcons.IoMdStar />,
     cName: 'nav-text'
   },
   {
     title: 'Contact',
-    path: '/contact',
+    path: '/dor-cohen-website/contact',
     icon: <IoIcons.IoMdPeople />,
     cName: 'nav-text'
   },

@@ -15,9 +15,9 @@ function App() {
         <Navbar />
         <Switch>
           <Route path='/dor-cohen-website/' exact component={About} /> {/*this call to function 'Home' in pages->Home.js if the path are equals*/}
-          <Route path='/skills' component={Skills} /> {/*this call to function 'Reports' in pages->Reports.js if the path are equals*/}
-          <Route path='/projects' component={Projects} /> {/*this call to function 'Products' in pages->Products.js if the path are equals*/}
-          <Route path='/contact' component={Contact} />
+          <Route path='/dor-cohen-website/skills' component={Skills} /> {/*this call to function 'Reports' in pages->Reports.js if the path are equals*/}
+          <Route path='/dor-cohen-website/projects' component={Projects} /> {/*this call to function 'Products' in pages->Products.js if the path are equals*/}
+          <Route path='/dor-cohen-website/contact' component={Contact} />
           <Route path='/dor-cohen-website/cv' component={Cv} />
         </Switch>
       </Router>
