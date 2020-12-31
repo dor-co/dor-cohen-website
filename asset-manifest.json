@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dor-cohen-website/static/css/main.67e21128.chunk.css",
-    "main.js": "/dor-cohen-website/static/js/main.e851183b.chunk.js",
-    "main.js.map": "/dor-cohen-website/static/js/main.e851183b.chunk.js.map",
+    "main.js": "/dor-cohen-website/static/js/main.3c682352.chunk.js",
+    "main.js.map": "/dor-cohen-website/static/js/main.3c682352.chunk.js.map",
     "runtime-main.js": "/dor-cohen-website/static/js/runtime-main.bd7aa055.js",
     "runtime-main.js.map": "/dor-cohen-website/static/js/runtime-main.bd7aa055.js.map",
     "static/js/2.c4499229.chunk.js": "/dor-cohen-website/static/js/2.c4499229.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.bd7aa055.js",
     "static/js/2.c4499229.chunk.js",
     "static/css/main.67e21128.chunk.css",
-    "static/js/main.e851183b.chunk.js"
+    "static/js/main.3c682352.chunk.js"
   ]
 }
