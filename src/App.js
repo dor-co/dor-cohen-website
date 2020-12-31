@@ -18,7 +18,7 @@ function App() {
           <Route path='/skills' component={Skills} /> {/*this call to function 'Reports' in pages->Reports.js if the path are equals*/}
           <Route path='/projects' component={Projects} /> {/*this call to function 'Products' in pages->Products.js if the path are equals*/}
           <Route path='/contact' component={Contact} />
-          <Route path='/cv' component={Cv} />
+          <Route path='/dor-cohen-website/cv' component={Cv} />
         </Switch>
       </Router>
     </>

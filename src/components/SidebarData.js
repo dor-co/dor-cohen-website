@@ -30,7 +30,7 @@ export const SidebarData = [ //array of all the elements of the sidebar
   },
   {
     title: 'Get My CV',
-    path: '/cv',
+    path: '/dor-cohen-website/cv',
     icon: <IoIcons.IoIosPaperPlane />,
     cName: 'nav-text'
   }
