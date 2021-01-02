@@ -12,7 +12,7 @@ export const SidebarData = [ //array of all the elements of the sidebar
   },
   {
     title: 'Projects',
-    path: '/dor-cohen-website/projects',
+    path: '/dor-cohen-website/#projects',
     icon: <IoIcons.IoIosPaper />,
     cName: 'nav-text'
   },
