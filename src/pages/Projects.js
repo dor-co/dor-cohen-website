@@ -3,7 +3,7 @@ import React from 'react';
 function Projects() { //after click on 'Products' in the menu this page will show
   return (
     <div>
-      <h1 id="projectHead">MY PROJECTS</h1>
+      <h1 id="projectHead">MY PROJECTS<br /><h6>click project for moving to source code</h6></h1>
       <div className='projects'>
       
       <div class="container2">
