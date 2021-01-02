@@ -52,6 +52,7 @@
   width: 16%;
   overflow:hidden;
   margin: 10px;
+  margin-top: -80px;
 }
 
 .container2 {
@@ -59,6 +60,7 @@
   width: 28%;
   overflow:hidden;
   margin: 10px;
+  margin-top: -80px;
 }
 
 .image {
