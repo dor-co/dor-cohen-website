@@ -271,29 +271,6 @@
   background-color: #2196F3;
 }
 
-/*.re{
-  width: 130px;
-  padding: 5px;
-  margin: 5px;
-}
-
-.re b{
-  display: none;
-}
-
-.re i{
-  display: block;
-  height: 50px;
-}
-.re:hover b {
-  display: block;
-  color: #fff;
-}
-
-.re:hover i{
-  display: none;
-}*/
-
 .c--anim-btn span {
   text-decoration: none;
   text-align: center;
